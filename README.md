@@ -22,7 +22,7 @@ You do not need to install anything. Just run the script and point it to a targe
 ## Running the tests
 
 ```
-sudo python ./R0b1n.py www.google.com
+sudo python ./Rob1n.py www.google.com
 ```
 
 ## Built With
